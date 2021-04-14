@@ -3,4 +3,4 @@
  zalogowaniu). 
 
 Stack:
-C++, QtWidgety, SQL, SQLite db
+C++, QtForms, SQL, SQLite db
